@@ -1,1 +1,2 @@
 pack map git \https://github.com/ApxuTechTop/samosbor_map.git
+pack map_test git \https://github.com/ApxuTechTop/samosbor_map_test.git
